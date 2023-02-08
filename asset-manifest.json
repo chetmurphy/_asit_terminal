@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/asit_terminal/static/css/main.073c9b0a.css",
-    "main.js": "/asit_terminal/static/js/main.1bac3a89.js",
+    "main.js": "/asit_terminal/static/js/main.f76dfdc3.js",
     "static/js/787.52214fc3.chunk.js": "/asit_terminal/static/js/787.52214fc3.chunk.js",
     "static/media/logo.svg": "/asit_terminal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/asit_terminal/index.html",
     "main.073c9b0a.css.map": "/asit_terminal/static/css/main.073c9b0a.css.map",
-    "main.1bac3a89.js.map": "/asit_terminal/static/js/main.1bac3a89.js.map",
+    "main.f76dfdc3.js.map": "/asit_terminal/static/js/main.f76dfdc3.js.map",
     "787.52214fc3.chunk.js.map": "/asit_terminal/static/js/787.52214fc3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1bac3a89.js"
+    "static/js/main.f76dfdc3.js"
   ]
 }
